@@ -35,7 +35,7 @@ echo "$(date '+%Y-%m-%d %H:%M:%S') - Starting build process..."
 
 # 定义所需安装的包列表 下列插件你都可以自行删减
 PACKAGES=""
-PACKAGES="$PACKAGES luci-i18n-attendedsysupgrade-zh-cn luci-i18n-base-zh-cn luci-i18n-firewall-zh-cn luci-app-autoreboot luci-i18n-autoreboot-zh-cn luci-app-ddns luci-i18n-ddns-zh-cn luci-app-ddns-go luci-i18n-ddns-go-zh-cn luci-app-openclash luci-app-smartdns luci-i18n-smartdns-zh-cn luci-app-ttyd luci-i18n-ttyd-zh-cn luci-app-unblockneteasemusic luci-app-upnp luci-i18n-upnp-zh-cn luci-app-vlmcsd luci-i18n-vlmcsd-zh-cn luci-app-wol luci-i18n-wol-zh-cn luci-app-zerotier luci-i18n-zerotier-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn luci-i18n-attendedsysupgrade-zh-cn luci-i18n-base-zh-cn luci-i18n-firewall-zh-cn luci-app-autoreboot luci-i18n-autoreboot-zh-cn luci-app-ddns luci-i18n-ddns-zh-cn luci-app-ddns-go luci-i18n-ddns-go-zh-cn luci-app-openclash luci-app-smartdns luci-i18n-smartdns-zh-cn luci-app-ttyd luci-i18n-ttyd-zh-cn luci-app-unblockneteasemusic luci-app-upnp luci-i18n-upnp-zh-cn luci-app-vlmcsd luci-i18n-vlmcsd-zh-cn luci-app-wol luci-i18n-wol-zh-cn luci-app-zerotier luci-i18n-zerotier-zh-cn"
 
 #24.10
 # ======== shell/custom-packages.sh =======
